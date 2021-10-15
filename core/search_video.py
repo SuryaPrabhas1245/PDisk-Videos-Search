@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @suryaprabhas1245
 
 import requests
 from urllib import parse
